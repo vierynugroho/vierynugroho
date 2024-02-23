@@ -64,4 +64,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## My Contributions
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?vierynugroho&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vierynugroho&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
