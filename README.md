@@ -17,9 +17,9 @@
 <a href="https://www.youtube.com/channel/ucqyphpgh0igaprxa6fhom3a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucqyphpgh0igaprxa6fhom3a" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/732273754310312086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/732273754310312086" height="30" width="40" /></a>
 
-### Languages and Tools
+### Skills
 
-<center>Programming language</center>
+#### Programming language
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
