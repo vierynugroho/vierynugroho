@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="V Coding" width="200" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 </p>
-
+<h1 align="center">ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ</h1>
 <h1 align="center">Hi 👋, I'm Viery Nugroho</h1>
 <h3 align="center">Fullstack Web Developer and IT Enthusiast</h3>
 
@@ -61,6 +61,7 @@
 
 ### Version Control
 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## My Contributions
