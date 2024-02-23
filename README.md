@@ -1,6 +1,6 @@
-<div style="text-align:center;">
+<p align="center">
   <img alt="V Coding" width="400" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
-</div>
+</p>
 
 <h1 align="center">Hi 👋, I'm Viery Nugroho</h1>
 <h3 align="center">Fullstack Web Developer and IT Enthusiast</h3>
