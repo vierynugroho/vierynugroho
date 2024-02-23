@@ -1,4 +1,3 @@
-[![MasterHead](https://www.linkedin.com/in/viery-nugroho/)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Viery Nugroho</h1>
 <h3 align="center">Fullstack Web Developer and IT Enthusiast</h3>
 
