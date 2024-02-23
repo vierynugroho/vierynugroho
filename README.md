@@ -66,4 +66,4 @@
 ## My Contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vierynugroho&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vierynugroho&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vierynugroho)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vierynugroho&layout=compact&theme=highcontrast&border_color=141E61)](https://github.com/anuraghazra/github-readme-stats)
