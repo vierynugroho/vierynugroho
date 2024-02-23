@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="V Coding" width="400" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
+  <img alt="V Coding" width="200" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Viery Nugroho</h1>
