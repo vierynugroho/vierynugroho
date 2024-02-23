@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viery Nugroho</h1>
 <h3 align="center">Fullstack Web Developer and IT Enthusiast</h3>
 
-<img align="right" alt="V Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="V Coding" width="400" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vierynugroho&label=Profile%20views&color=0e75b6&style=flat" alt="vierynugroho" /> </p>
 
