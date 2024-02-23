@@ -7,6 +7,7 @@
 [LinkedIn](https://www.linkedin.com/in/viery-nugroho/) | [Facebook](https://www.facebook.com/maz.viery.5/) | [Instagram](https://www.instagram.com/viery.n/) | [YouTube](https://www.youtube.com/channel/ucqyphpgh0igaprxa6fhom3a) | [Discord](https://discordapp.com/users/732273754310312086)
 
 ### Languages and Tools:
+![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)
 #### Programming language:
 - HTML5
 - JavaScript
