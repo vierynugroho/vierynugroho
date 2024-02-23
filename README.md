@@ -5,7 +5,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/viery-nugroho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/viery-nugroho/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/viery-nugroho/" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.facebook.com/maz.viery.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/maz.viery.5/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/viery.n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/viery.n/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/ucqyphpgh0igaprxa6fhom3a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucqyphpgh0igaprxa6fhom3a" height="30" width="40" /></a>
