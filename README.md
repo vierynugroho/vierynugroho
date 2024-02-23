@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
 - 📫 How to reach me: viery15102002@gmail.com
+- Informatics Engineering Student, Balitar Islamic University
+- Batch 6 Independent Study "Kampus Merdeka" - Binar Academy: Fullstack Web Development
 
 ## Connect with me
 
