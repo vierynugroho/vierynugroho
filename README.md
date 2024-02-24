@@ -17,7 +17,7 @@
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/viery-nugroho/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /> LinkedIn</a>
-<a href="https://www.facebook.com/maz.viery.5/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /> Github</a>
+<a href="https://www.facebook.com/maz.viery.5/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /> Facebook</a>
 <a href="https://www.instagram.com/viery.n/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /> Instagram</a>
 <a href="https://www.youtube.com/channel/ucqyphpgh0igaprxa6fhom3a" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /> YouTube</a>
 <a href="https://discordapp.com/users/732273754310312086" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /> Discord</a>
