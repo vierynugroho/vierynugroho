@@ -68,11 +68,7 @@
 
 ## My Contributions
 <p align="center">
-  <div>
     <img class="img" style="width: 49%; height: 100%;" src="https://github-readme-streak-stats.herokuapp.com?user=vierynugroho&theme=highcontrast&date_format=j%20M%5B%20Y%5D" />
     <img class="img" style="width: 49%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=vierynugroho&show_icons=true&theme=highcontrast" />
-  </div>
-  <div>
     <img class="img" style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vierynugroho&layout=compact&theme=highcontrast" />
-  </div>
 </p>
