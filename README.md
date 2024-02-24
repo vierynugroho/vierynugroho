@@ -67,8 +67,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## My Contributions
-<div style="display: flex; flex-direction: row;">
- <img class="img" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=vierynugroho&theme=highcontrast&date_format=j%20M%5B%20Y%5D" />
- <img class="img" width="50%" src="https://github-readme-stats.vercel.app/api?username=vierynugroho&show_icons=true&theme=highcontrast" />
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img class="img" style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com?user=vierynugroho&theme=highcontrast&date_format=j%20M%5B%20Y%5D" />
+  <img class="img" style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=vierynugroho&show_icons=true&theme=highcontrast" />
 </div>
- <img class="img" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vierynugroho&layout=compact&theme=highcontrast" />
+<div style="text-align: center;">
+  <img class="img" style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vierynugroho&layout=compact&theme=highcontrast" />
+</div>
