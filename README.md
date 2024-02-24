@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="V Coding" width="200" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 </p>
-<h1 align="center">ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ</h1>
+<h3 align="center">ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ</h3>
 <h1 align="center">👋🏻 Hi! I'm Viery Nugroho<h1>
 <h3 align="center">Fullstack Web Developer and IT Enthusiast</h3>
 
