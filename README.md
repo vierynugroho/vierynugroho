@@ -2,7 +2,7 @@
   <img alt="V Coding" width="200" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 </p>
 <h3 align="center">ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ</h3>
-<h2 align="center">👋🏻 Hi! ...  I'm Viery Nugroho<h2>
+<h3 align="center">👋🏻 Hi! ...  I'm Viery Nugroho</h3>
 <h3 align="center">Fullstack Web Developer and IT Enthusiast</h3>
 
 <p align="left">
@@ -16,11 +16,11 @@
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/viery-nugroho/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /> LinkedIn</a>
-<a href="https://www.facebook.com/maz.viery.5/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="30" /> Facebook</a>
-<a href="https://www.instagram.com/viery.n/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30" /> Instagram</a>
-<a href="https://www.youtube.com/channel/ucqyphpgh0igaprxa6fhom3a" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /> YouTube</a>
-<a href="https://discordapp.com/users/732273754310312086" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="30" /> Discord</a>
+<a href="https://www.linkedin.com/in/viery-nugroho/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.facebook.com/maz.viery.5/" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href="https://www.instagram.com/viery.n/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.youtube.com/channel/ucqyphpgh0igaprxa6fhom3a" target="_blank">	![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+<a href="https://discordapp.com/users/732273754310312086" target="_blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 
 ## Skills
 
