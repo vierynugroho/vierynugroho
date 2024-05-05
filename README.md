@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=vierynugroho&label=Profile%20views&color=0e75b6&style=flat" alt="vierynugroho" />
 </p>
 
-- 📚 I’m currently learning **MERN Stack Web Development**
+- 📚 I’m currently learning **FullStack Web Development at Binar Academy**
 - 📫 How to reach me: viery15102002@gmail.com
 - 🎓 Informatics Engineering Student, Balitar Islamic University
 - 👨🏻‍💻 Batch 6 Independent Study "Kampus Merdeka" - Binar Academy: Fullstack Web Development
