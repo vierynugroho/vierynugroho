@@ -9,10 +9,12 @@
   <img src="https://komarev.com/ghpvc/?username=vierynugroho&label=Profile%20views&color=0e75b6&style=flat" alt="vierynugroho" />
 </p>
 
-- 📚 I’m currently learning **FullStack Web Development at Binar Academy**
+- 📚 I am now focusing on improving my skills in web development, especially as a Backend Web Developer
 - 📫 How to reach me: viery15102002@gmail.com
 - 🎓 Informatics Engineering Student, Balitar Islamic University
-- 👨🏻‍💻 Batch 6 Independent Study "Kampus Merdeka" - Binar Academy: Fullstack Web Development
+#### 👨🏻‍💻What have I recently completed?
+- Batch 6 Independent Study "Kampus Merdeka" - Binar Academy: Fullstack Web Development
+- And all related licenses and certifications that I have: [Licences & Certificates](https://www.linkedin.com/in/viery-nugroho/details/certifications/)
 
 ## Connect with me
 
