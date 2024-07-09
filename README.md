@@ -24,7 +24,7 @@
 <a href="https://www.youtube.com/channel/ucqyphpgh0igaprxa6fhom3a" target="_blank">	![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 <a href="https://discordapp.com/users/732273754310312086" target="_blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 
-## Skills
+## Tech Stacks
 
 #### Markup & Programming Language
 
