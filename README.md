@@ -10,13 +10,14 @@
 </p>
 
 - 📚 I am now focusing on improving my skills in web development, especially as a Backend Web Developer
-- 📫 How to reach me: viery15102002@gmail.com
+- Batch 7 Independent Study "Kampus Merdeka" - Binar Academy: Backend Javascript
 - 🎓 Informatics Engineering Student, Balitar Islamic University
 #### 👨🏻‍💻What have I recently completed?
 - Batch 6 Independent Study "Kampus Merdeka" - Binar Academy: Fullstack Web Development
 - And all related licenses and certifications that I have: [Licences & Certificates](https://www.linkedin.com/in/viery-nugroho/details/certifications/)
 
 ## Connect with me
+- 📫 How to reach me: viery15102002@gmail.com
 
 <a href="https://www.linkedin.com/in/viery-nugroho/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.facebook.com/maz.viery.5/" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
