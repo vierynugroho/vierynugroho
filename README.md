@@ -2,7 +2,7 @@
   <img alt="V Coding" width="200" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 </p>
 <h3 align="center">ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ</h3>
-<h3 align="center">👋🏻 Hi! ...  I'm Viery Nugroho</h3>
+<h3 align="center"> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="5%">Hi! ...  I'm Viery Nugroho</h3>
 <h3 align="center">Fullstack Web Developer and IT Enthusiast</h3>
 
 <p align="left">
