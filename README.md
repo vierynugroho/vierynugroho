@@ -10,9 +10,9 @@
 </p>
 
 - 📚 I am now focusing on improving my skills in web development, especially as a Backend Web Developer
-- Batch 7 Independent Study "Kampus Merdeka" - Binar Academy: Backend Javascript
 - 🎓 Informatics Engineering Student, Balitar Islamic University
 #### 👨🏻‍💻What have I recently completed?
+- Batch 7 Independent Study "Kampus Merdeka" - Binar Academy: Backend Javascript
 - Batch 6 Independent Study "Kampus Merdeka" - Binar Academy: Fullstack Web Development
 - And all related licenses and certifications that I have: [Licences & Certificates](https://www.linkedin.com/in/viery-nugroho/details/certifications/)
 
@@ -52,6 +52,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 #### Databases
 
