@@ -17,7 +17,7 @@
 - And all related licenses and certifications that I have: [Licences & Certificates](https://www.linkedin.com/in/viery-nugroho/details/certifications/)
 
 ## Connect with me
-- 🌐 Website Portfolio: ['viery' web portofilio](https://vieryn-portfolio.vercel.app/)
+- 🌐 Website Portfolio: ['viery' portofolio](https://vierynugroho.vercel.app/)
 - 📫 How to reach me: viery15102002@gmail.com
 
 <a href="https://www.linkedin.com/in/viery-nugroho/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
