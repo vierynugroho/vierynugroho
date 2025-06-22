@@ -9,8 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=vierynugroho&label=Profile%20views&color=0e75b6&style=flat" alt="vierynugroho" />
 </p>
 
-- 📚 I am now focusing on improving my skills in web development, especially as a Backend Web Developer
-- 🎓 Informatics Engineering Student, Balitar Islamic University
+- 📚 Currently I am focusing on improving my skills in web development, project management, system analyst, and currently especially as a Backend Web Developer.
+- 🎓 Final Informatics Engineering Student, Balitar Islamic University
 #### 👨🏻‍💻What have I recently completed?
 - Batch 7 Independent Study "Kampus Merdeka" - Binar Academy: Backend Javascript
 - Batch 6 Independent Study "Kampus Merdeka" - Binar Academy: Fullstack Web Development
@@ -19,12 +19,17 @@
 ## Connect with me
 - 🌐 Website Portfolio: ['viery' portofolio](https://vierynugroho.vercel.app/)
 - 📫 How to reach me: viery15102002@gmail.com
+- 👩🏻‍💻 Also active on [gitlab](https://gitlab.com/vierynugroho)
+<br>
+<br>
 
 <a href="https://www.linkedin.com/in/viery-nugroho/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.facebook.com/maz.viery.5/" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 <a href="https://www.instagram.com/viery.n/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://www.youtube.com/channel/ucqyphpgh0igaprxa6fhom3a" target="_blank">	![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 <a href="https://discordapp.com/users/732273754310312086" target="_blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="https://gitlab.com/vierynugroho" target="_blank">![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</a>
+<a href="https://github.com/vierynugroho" target="_blank">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 
 ## Tech Stacks
 
@@ -47,6 +52,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Remix.js](https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+
 
 #### Framework - Back End
 
@@ -61,16 +68,34 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
 
 #### ORM (Object-Relational Mapping)
 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
+
 #### Version Control
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+#### UI UX Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+
+#### Another Tools
+
+![Web Socket](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
 
 ## My Contributions
 <p align="center">
